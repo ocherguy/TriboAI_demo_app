@@ -30,8 +30,6 @@ Estimate tribological performance indicators based on input parameters such as:
 
 The system demonstrates how predictive models can support early-stage evaluation before costly testing.
 
----
-
 ### AI-Assisted Experimental Design  
 Use AI to support smarter experimentation by:
 - Suggesting promising parameter combinations  
